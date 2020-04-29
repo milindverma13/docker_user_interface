@@ -4,7 +4,7 @@ import time
 import start
 import remote_main_menu
 import main_menu
-########################################## MAIN ########################################################
+
 def main():
 	count=0
 	while count <= 2:
