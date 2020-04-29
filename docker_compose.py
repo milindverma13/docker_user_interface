@@ -3,7 +3,7 @@ import subprocess as sp
 import time
 import start
 import main_menu
-########################################## DOCKER COMPOSE #############################################
+
 def docker_compose():
 	os.system("clear")
 	while True:
