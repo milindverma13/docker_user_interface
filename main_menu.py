@@ -2,7 +2,7 @@ import os
 import subprocess as sp
 import time
 import start
-import docker
+import main
 import general
 import docker_container
 import docker_image
